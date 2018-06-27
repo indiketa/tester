@@ -1,2 +1,2 @@
 # tester
-Simple webserver to play with containers
+Servidor web per fer pràctiques
